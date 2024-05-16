@@ -1,0 +1,20 @@
+[package]
+name = "suihorse"
+version = "0.0.0"
+authors = ["Thouny <thouny@tuta.io>"]
+edition = "2021"
+keywords = [
+	"argument",
+	"cli",
+	"arg",
+	"parser",
+	"parse",
+	"sui",
+	"move"
+]
+categories = ["command-line-interface"]
+repository = "https://github.com/thounyy/suihorse"
+readme = "README.md"
+license-file = "LICENSE"
+# documentation = "https://docs.rs/suihorse/"
+description = "A minimal Rust CLI framework for Sui"
